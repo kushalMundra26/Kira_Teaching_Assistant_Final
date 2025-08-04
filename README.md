@@ -13,8 +13,7 @@ The agent comes with a **Flask + LiveKit frontend** for testing real-time voice 
   - Warm, conversational, and clear explanations for any topic.
   - Can summarize and explain concepts in simple terms.
 - **Wake Word Detection**
-  - Responds only when it hears:  
-    `kira, quira, keira, kia, kiara, khira, keera`
+  - Responds only when it hears `kira`
 - **Meeting Log Integration**
   - Logs all conversations to `meeting_log.txt`.
   - Can reference the full log if you ask a question with a wake word.
